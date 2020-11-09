@@ -1,0 +1,556 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DF306078-5CF8-40FD-A126-0F24F95A85B1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ScrumGame</RootNamespace>
+    <AssemblyName>ScrumGame</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NAudio, Version=1.10.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.1.10.0\lib\net35\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AudioController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AudioController.Designer.cs">
+      <DependentUpon>AudioController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackEndDeveloper.cs" />
+    <Compile Include="BuyCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyCardForm.Designer.cs">
+      <DependentUpon>BuyCardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientCard.cs" />
+    <Compile Include="ClientCardInventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientCardInventoryForm.Designer.cs">
+      <DependentUpon>ClientCardInventoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomProgressBar.Designer.cs">
+      <DependentUpon>CustomProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiceResourceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiceResourceForm.Designer.cs">
+      <DependentUpon>DiceResourceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobFairSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobFairSelectionForm.Designer.cs">
+      <DependentUpon>JobFairSelectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Form.Designer.cs">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SetupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetupForm.Designer.cs">
+      <DependentUpon>SetupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaskForm.Designer.cs">
+      <DependentUpon>TaskForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RulesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RulesForm.Designer.cs">
+      <DependentUpon>RulesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrontEndDeveloper.cs" />
+    <Compile Include="FullStackDeveloper.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="ProductOwner.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScrumMaster.cs" />
+    <Compile Include="TechnologyCard.cs" />
+    <Compile Include="TechnologyCardInventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TechnologyCardInventoryForm.Designer.cs">
+      <DependentUpon>TechnologyCardInventoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UseResearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UseResearchForm.Designer.cs">
+      <DependentUpon>UseResearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VotingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VotingForm.Designer.cs">
+      <DependentUpon>VotingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WildResourceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WildResourceForm.Designer.cs">
+      <DependentUpon>WildResourceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Worker.cs" />
+    <EmbeddedResource Include="AudioController.resx">
+      <DependentUpon>AudioController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyCardForm.resx">
+      <DependentUpon>BuyCardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientCardInventoryForm.resx">
+      <DependentUpon>ClientCardInventoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiceResourceForm.resx">
+      <DependentUpon>DiceResourceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobFairSelectionForm.resx">
+      <DependentUpon>JobFairSelectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Form.resx">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetupForm.resx">
+      <DependentUpon>SetupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaskForm.resx">
+      <DependentUpon>TaskForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RulesForm.resx">
+      <DependentUpon>RulesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechnologyCardInventoryForm.resx">
+      <DependentUpon>TechnologyCardInventoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UseResearchForm.resx">
+      <DependentUpon>UseResearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VotingForm.resx">
+      <DependentUpon>VotingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WildResourceForm.resx">
+      <DependentUpon>WildResourceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GameBoard.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackEndDeveloperNeutral.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackEndDeveloperPlayer1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackEndDeveloperPlayer2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackEndDeveloperPlayer3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackEndDeveloperPlayer4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrontEndDeveloperNeutral.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrontEndDeveloperPlayer1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrontEndDeveloperPlayer2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrontEndDeveloperPlayer3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrontEndDeveloperPlayer4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FullStackDeveloperNeutral.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FullStackDeveloperPlayer1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FullStackDeveloperPlayer2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FullStackDeveloperPlayer3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FullStackDeveloperPlayer4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProductOwnerNeutral.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProductOwnerPlayer1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProductOwnerPlayer2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProductOwnerPlayer3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProductOwnerPlayer4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScrumMasterNeutral.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScrumMasterPlayer1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScrumMasterPlayer2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScrumMasterPlayer3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScrumMasterPlayer4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResearchLevel1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResearchLevel2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResearchLevel3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResearchLevel4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResearchLevel1Used.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResearchLevel2Used.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResearchLevel3Used.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResearchLevel4Used.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard10.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard11.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard12.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard13.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard14.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard15.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard16.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard17.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard18.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard19.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard20.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard21.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard22.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard23.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard25.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard26.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard27.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard28.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard29.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard30.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard31.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard32.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard33.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard33Used.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard34.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard34Used.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard35.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard35Used.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard36.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCard36Used.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCardBack.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TechnologyCardSlots.bmp" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\ClientCard1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard10.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard11.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard12.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard13.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard14.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard15.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard16.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard17.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard18.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard19.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard20.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard21.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard22.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard23.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard25.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard26.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard27.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCard28.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClientCardBlank.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UseButtonLightning.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerBackGround1.png" />
+    <None Include="Resources\PlayerBackGround.png" />
+    <None Include="Resources\ColorWheel.png" />
+    <None Include="Resources\FullStackDeveloperPlayer31.bmp" />
+    <None Include="Resources\FullStackDeveloperPlayer21.bmp" />
+    <None Include="Resources\FullStackDeveloperPlayer11.bmp" />
+    <None Include="Resources\FrontEndDeveloperPlayer41.bmp" />
+    <None Include="Resources\FrontEndDeveloperPlayer31.bmp" />
+    <None Include="Resources\FrontEndDeveloperPlayer21.bmp" />
+    <None Include="Resources\FrontEndDeveloperPlayer11.bmp" />
+    <None Include="Resources\ScrumMasterTransparent.png" />
+    <None Include="Resources\ProductOwnerTransparent.png" />
+    <None Include="Resources\FullStackDeveloperTransparent.png" />
+    <None Include="Resources\FrontEndDeveloperTransparent.png" />
+    <None Include="Resources\ScrumMasterTransport.bmp" />
+    <None Include="Resources\ProductOwnerTransparent.bmp" />
+    <None Include="Resources\FullStackDeveloperTransparent.bmp" />
+    <None Include="Resources\FrontEndDeveloperTransparent.bmp" />
+    <None Include="Resources\dice.ico" />
+    <None Include="Resources\profile.png" />
+    <None Include="Resources\player.bmp" />
+    <None Include="Resources\click.wav" />
+    <Content Include="moosic\beat.wav" />
+    <None Include="Resources\BackEndDeveloperTransparent.bmp" />
+    <None Include="Resources\BackEndDeveloperTransparent.png" />
+    <Content Include="Resources\ClientCard6.bmp" />
+    <Content Include="Resources\ClientCard7.bmp" />
+    <Content Include="Resources\ClientCard8.bmp" />
+    <None Include="Resources\mute.png" />
+    <None Include="Resources\low.png" />
+    <None Include="Resources\middle.png" />
+    <None Include="Resources\full.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

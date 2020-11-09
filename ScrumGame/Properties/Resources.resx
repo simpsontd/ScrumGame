@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="TechnologyCard34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard34.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BackEndDeveloperTransparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BackEndDeveloperTransparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard23.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard12.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard23.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard15.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard33Used" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard33Used.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard6.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ResearchLevel2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ResearchLevel2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FullStackDeveloperTransparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FullStackDeveloperTransparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard24.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard8.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ResearchLevel1Used" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ResearchLevel1Used.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BackEndDeveloperNeutral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BackEndDeveloperNeutral.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard33.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FrontEndDeveloperNeutral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FrontEndDeveloperNeutral.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="low" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\low.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard24.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard12.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard10.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ScrumMasterNeutral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ScrumMasterNeutral.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard5.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard31.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard8.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard36" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard36.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard5.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard11.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ResearchLevel1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ResearchLevel1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard6.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard14.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FrontEndDeveloperTransparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FrontEndDeveloperTransparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard17.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ScrumMasterTransparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ScrumMasterTransparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="profile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\profile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard19.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard9.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ResearchLevel4Used" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ResearchLevel4Used.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard10.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ResearchLevel4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ResearchLevel4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard20.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard28.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard25.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ResearchLevel2Used" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ResearchLevel2Used.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard26.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GameBoard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GameBoard.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCardBack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCardBack.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\click.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ClientCard9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard9.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard36Used" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard36Used.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard26.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard11.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard21.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard7.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard22.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard28.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="full" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\full.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ResearchLevel3Used" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ResearchLevel3Used.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard18.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard17.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard32.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProductOwnerNeutral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ProductOwnerNeutral.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard25.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard29.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mute" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mute.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard27.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard13.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProductOwnerTransparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ProductOwnerTransparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PlayerBackGround" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PlayerBackGround.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard35.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCardSlots" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCardSlots.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard20.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard22.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard13.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ColorWheel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ColorWheel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard27.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard16.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard34Used" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard34Used.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ResearchLevel3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ResearchLevel3.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard18.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard21.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard16.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard15.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard30.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCardBlank" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCardBlank.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard14.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FullStackDeveloperNeutral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FullStackDeveloperNeutral.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard19.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard7.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TechnologyCard35Used" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TechnologyCard35Used.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="middle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\middle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UseButtonLightning" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UseButtonLightning.BMP;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClientCard4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClientCard4.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PlayerBackGround1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PlayerBackGround1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

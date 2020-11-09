@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>SETUP:
+Place game board in middle
+Separate Money tiles into denominations and place on Big Wigs
+Place 20 Task tokens in Taskland
+Place 16 Story tokens in Storyland
+Place 12 Feature tokens in Featureland
+Place 10 Epic Tokens in Epicland
+Place 36 Developers in Applicants Pool (12 of each skill)
+Place 90 Research tokens into the Google Box
+Shuffle Technology cards and place facedown next to board, place 4 of those cards on the board faceup.
+Shuffle Client cards and place in 4 stacks of seven. Number of stacks is equal to the number of players.
+Players choose their two markers and place one on the Budget track and one on the score track at the zero marks
+Each player takes one player board and places 1 Product owner, 1 Scrum Master, and 3 Developers on their board and twelve Money
+
+Gameplay:
+Phase 0: Players vote story types (Backend, Frontend, Fullstack)
+Phase1: players place people on gameboard
+Phase2:players use actions of placed people
+Phase3:players feed their people
+
+Phase0 detail
+Each player takes turns selecting a resource area and selecting which skill it will be associated with until all areas have been assigned a skill.
+
+Phase1 detail
+Taking turns, each player places one or more people on a resource until all people are placed. A player cannot go back and place additional peoples on a resource. Each resource has a limit of seven Developers. The order is clockwise.
+Product Owner – May be placed on any spot except a resource spot.
+Scrum Master – May be placed on Google spot or BigWigs spot. Is also a developer.
+Developer – May be placed on any spot except Client Card, Google spot, or BigWigs.
+Places available for placing:
+Google box: 1 max
+Job Fair: 2 Max (must be two and same color)
+Big Wigs: 1 max
+Contract Out: No limit
+Taskland: 7 max
+Storyland: 7 max
+Featureland: 7 max
+Epicland: 7 max
+Technology card: 1 max
+Client Card: 1 max
+
+Phase 2 detail:
+The start player uses all his placed people in whatever order they wish. As the player uses a person they return that person to their gameboard.
+	Uses:
+Google: The player receives one research token. The tool is placed on the player’s gameboard. The gameboard has three slots for research tokens. If a player already has three research tokens then the new token is placed on one of those stacks. Tokens must be added to the stack with the lowest number. Each Research stack may be used once per turn to add to a dice roll. Multiple Research stacks may be used on one roll.
+Job Fair: Player gains an additional Developer of desired skill which remains for the rest of the game. All three figures are returned to player gameboard.
+Big Wigs: Player increases Budget to next level and moves marker on Budget track. People figure is returned.
+Contract out: Player rolls number of dice equal to number of their people placed on Contract out space. Player may use tools to add to total between the dice.  The player receives money equal to the roll divided by two (round down).
+Resources: Player rolls dice and uses Research if desired. For each resource the gain is equal to the to the dice roll divided by the specific resource value: Task – 3, Story – 4, Feature- 5, Epic – 6
+Technology card: Player pays resources listed above the technology card to acquire the card. The card is placed on the player’s gameboard.
+Clients: The player pays the resources listed on the Client card and acquires that card. The player gains points equal to the number on the Client card and moves his marker up that number of spaces on the score track.
+	Client types:
+	Standard – user pays set resources and gets set points (17 cards)
+Semi-Flexible client – Card lists how many types of resource are required and how many total resources are required. The user selects x types of resources and calculates point by the total of resource value.(8 cards)
+Flexible Client – player may select up to 7 resources of any combination and receives points for the total
+
+Phase 3 detail:
+Players gain money equal to their position on the Budget track.
+Players pay money (1 for each people figure)
+If the player cannot pay then they place their current money in the supply and either:
+Pays difference of money using resources (1 money per resource)
+Lose 10 points
+Start player gives start player marker to the next player to his/her left for the next round.
+
+Game End:
+Not enough technology cards to fill 4 places on board at beginning of round
+Any Client stack is empty. The round is played to the end as normal.
+Scoring:
+Technology cards
+	Green Backgrounds – Multiply the number of cards by five and add to points.
+Sand-Colored backgrounds – These cards have people on the bottom corner of the card. Each card may have more than one person on the card. 
+Bonuses – Multiply number of bonuses by the player’s position on the budget track.
+Researchers – Multiply number of researchers by number of research tokens owned.
+Contracts – Multiply number of Contracts by the number of Client cards a player owns.
+Resumes – Multiply number of Resumes by number of people owned.
+Resources – each resource on a players gameboard equals one point.
+Tie breaker – Person with highest total budget, research tokens, and people.
+Rules for smaller group sizes:
+2 – 3 players: only 2/3 of places may be occupied in a round (Google, Job Fair, Contract out).
+3 players: Only two players are allowed on each resource.
+2 players: Only one player is allowed on each resource.
+</value>
+  </data>
+</root>

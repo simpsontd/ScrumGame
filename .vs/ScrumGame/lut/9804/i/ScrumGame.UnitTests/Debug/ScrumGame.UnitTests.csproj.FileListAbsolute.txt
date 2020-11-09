@@ -1,0 +1,8 @@
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\b\ScrumGame.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\b\ScrumGame.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\b\ScrumGame.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\b\ScrumGame.UnitTests\bin\Debug\ScrumGame.UnitTests.dll
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame.UnitTests\Debug\ScrumGame.UnitTests.csprojAssemblyReference.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame.UnitTests\Debug\ScrumGame.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame.UnitTests\Debug\ScrumGame.UnitTests.csproj.CopyComplete
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame.UnitTests\Debug\ScrumGame.UnitTests.dll

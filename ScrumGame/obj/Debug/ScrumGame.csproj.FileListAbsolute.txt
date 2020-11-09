@@ -1,0 +1,119 @@
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe.config
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\bin\Debug\ScrumGame.pdb
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\obj\Debug\ScrumGame.MainForm.resources
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\obj\Debug\ScrumGame.Properties.Resources.resources
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\obj\Debug\ScrumGame.exe
+C:\Users\tyler\source\repos\ScrumGame\ScrumGame\obj\Debug\ScrumGame.pdb
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe.config
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.pdb
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csprojAssemblyReference.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.MainForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.Properties.Resources.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.GenerateResource.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.exe
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.pdb
+E:\BoardGame\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe.config
+E:\BoardGame\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe
+E:\BoardGame\ScrumGame\ScrumGame\bin\Debug\ScrumGame.pdb
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.MainForm.resources
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.Properties.Resources.resources
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.GenerateResource.cache
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.exe
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.pdb
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.WildResourceForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.DiceResourceForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TechnologyCardInventoryForm.resources
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.DiceResourceForm.resources
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.Form2.resources
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TechnologyCardInventoryForm.resources
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.UseResearch.resources
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.WildResourceForm.resources
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.CoreCompileInputs.cache
+E:\BoardGame\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csprojAssemblyReference.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TaskForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.RulesForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.UseResearchForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.ClientCardInventoryForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.SetupForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.VotingForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.JobFairSelectionForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.BuyCardForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe.config
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.pdb
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csprojAssemblyReference.cache
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.AudioController.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.BuyCardForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.ClientCardInventoryForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.DiceResourceForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.JobFairSelectionForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.MainForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.SetupForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TaskForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.RulesForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.Properties.Resources.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TechnologyCardInventoryForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.UseResearchForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.VotingForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.WildResourceForm.resources
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.GenerateResource.cache
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.exe
+C:\Users\ECHO\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.pdb
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.AudioController.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.BuyCardForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.ClientCardInventoryForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.DiceResourceForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.JobFairSelectionForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.MainForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.SetupForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TaskForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.RulesForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.Properties.Resources.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TechnologyCardInventoryForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.UseResearchForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.VotingForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.WildResourceForm.resources
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.GenerateResource.cache
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe.config
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\bin\Debug\ScrumGame.pdb
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.exe
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.pdb
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\bin\Debug\NAudio.dll
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\bin\Debug\NAudio.xml
+C:\Users\ECHO\Desktop\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.CopyComplete
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\bin\Debug\NAudio.dll
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\bin\Debug\NAudio.xml
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.AudioController.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.CopyComplete
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csprojAssemblyReference.cache
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.exe
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.pdb
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe.config
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\bin\Debug\ScrumGame.exe
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\bin\Debug\ScrumGame.pdb
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\bin\Debug\NAudio.dll
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\bin\Debug\NAudio.xml
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.AudioController.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.BuyCardForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.ClientCardInventoryForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.DiceResourceForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.JobFairSelectionForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.MainForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.SetupForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TaskForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.RulesForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.Properties.Resources.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.TechnologyCardInventoryForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.UseResearchForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.VotingForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.WildResourceForm.resources
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.GenerateResource.cache
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.CoreCompileInputs.cache
+X:\Home\Projects\Coding Projects\ScrumGame\ScrumGame\obj\Debug\ScrumGame.csproj.CopyComplete

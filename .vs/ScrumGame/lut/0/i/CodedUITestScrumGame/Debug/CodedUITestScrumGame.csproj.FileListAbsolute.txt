@@ -1,0 +1,5 @@
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\b\CodedUITestScrumGame\bin\Debug\CodedUITestScrumGame.dll
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\CodedUITestScrumGame\Debug\CodedUITestScrumGame.csprojAssemblyReference.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\CodedUITestScrumGame\Debug\CodedUITestScrumGame.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\CodedUITestScrumGame\Debug\CodedUITestScrumGame.csproj.CopyComplete
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\CodedUITestScrumGame\Debug\CodedUITestScrumGame.dll

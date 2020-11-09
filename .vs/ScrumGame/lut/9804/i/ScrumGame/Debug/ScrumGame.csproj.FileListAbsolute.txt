@@ -1,0 +1,16 @@
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\b\ScrumGame\bin\Debug\ScrumGame.exe.config
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\b\ScrumGame\bin\Debug\ScrumGame.exe
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.csprojAssemblyReference.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.ClientCardInventoryForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.DiceResourceForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.MainForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.TaskForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.RulesForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.Properties.Resources.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.TechnologyCardInventoryForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.UseResearchForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.WildResourceForm.resources
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.csproj.GenerateResource.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.csproj.CopyComplete
+C:\Users\tyler\OneDrive\Documents\projectconcept\ScrumGame\.vs\ScrumGame\lut\0\i\ScrumGame\Debug\ScrumGame.exe
